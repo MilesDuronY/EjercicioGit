@@ -4,27 +4,43 @@ Maestro.- Carlos Miles Durón del Villar
 42102380.-
 38194249.-
 37187830.-
+42102520.-
+42102521.- Alejandra Guadalupe Gamboa Romo
 42102520.- María Guadalupe Gallegos Cruz
 42102521.-
 37183485.-
+<<<<<<< HEAD
 20201494.-
 42102247.-Itzel González González
+=======
+20201494.-git 
+42102247.-
+38195169.- Juana Estefania Herrera Mendoza
+42102770.-
+>>>>>>> 95add678166f09fe716fd76e5cce4cc060e116f9
 38195169.-
 42102770.-Erwin Andrés López Ortega 
 38195667.-
 42102865.-
-42102866.-
+42102866.- Mario Alberto Martínez Cuevas
 39203870.-
 38194292.- Christian Emilio Ordaz González
 38194689.-
 37184653.-
+38193011.- Reducindo Luis :D
+20202262.-
 38193011.-
+<<<<<<< HEAD
+20202262.-
+42103003.- Josue David Rivas Garcia
+=======
 20202262.- Alejandro Rincon Sandoval
 42103003.-
+>>>>>>> fff5a37c735964bcf3b29f5c7f286c0a922e7861
 20204352.-
 34154699.- Jonathan Robles García
 20202270.-
-35161474.-
+35161474.- Pedro Alberto Salcedo Chavira 
 38193823.-
 38193770.- Christian Yahir Soria De Lara
 36170403.-
