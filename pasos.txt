@@ -1,0 +1,8 @@
+git status
+git add .
+git commit -m"Modificación 42102770"
+pull origin master 
+git push origin master 
+--------------------------------
+
+git checkout -b matricula cambio de rama
