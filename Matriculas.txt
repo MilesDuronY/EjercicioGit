@@ -9,10 +9,15 @@ Maestro.- Carlos Miles Durón del Villar
 42102520.- María Guadalupe Gallegos Cruz
 42102521.-
 37183485.-
+<<<<<<< HEAD
+20201494.-
+42102247.-Itzel González González
+=======
 20201494.-git 
 42102247.-
 38195169.- Juana Estefania Herrera Mendoza
 42102770.-
+>>>>>>> 95add678166f09fe716fd76e5cce4cc060e116f9
 38195169.-
 42102770.-Erwin Andrés López Ortega 
 38195667.-
