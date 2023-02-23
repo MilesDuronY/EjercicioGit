@@ -4,11 +4,20 @@ Maestro.- Carlos Miles Durón del Villar
 42102380.-
 38194249.-
 37187830.-
+42102520.-
+42102521.- Alejandra Guadalupe Gamboa Romo
 42102520.- María Guadalupe Gallegos Cruz
 42102521.-
+<<<<<<< HEAD
 37183485.-Jaziel Esteban Garcia Guillen
 20201494.-
+=======
+37183485.-
+20201494.-git 
+>>>>>>> 90e5df1c7d5cd64331d83044de02990469188b51
 42102247.-
+38195169.- Juana Estefania Herrera Mendoza
+42102770.-
 38195169.-
 42102770.-Erwin Andrés López Ortega 
 38195667.-
@@ -24,7 +33,7 @@ Maestro.- Carlos Miles Durón del Villar
 20204352.-
 34154699.- Jonathan Robles García
 20202270.-
-35161474.-
+35161474.- Pedro Alberto Salcedo Chavira 
 38193823.-
 38193770.- Christian Yahir Soria De Lara
 36170403.-
