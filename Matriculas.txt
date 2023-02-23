@@ -22,9 +22,16 @@ Maestro.- Carlos Miles Durón del Villar
 38194292.- Christian Emilio Ordaz González
 38194689.-
 37184653.-
+38193011.- Reducindo Luis :D
+20202262.-
 38193011.-
+<<<<<<< HEAD
+20202262.-
+42103003.- Josue David Rivas Garcia
+=======
 20202262.- Alejandro Rincon Sandoval
 42103003.-
+>>>>>>> fff5a37c735964bcf3b29f5c7f286c0a922e7861
 20204352.-
 34154699.- Jonathan Robles García
 20202270.-
