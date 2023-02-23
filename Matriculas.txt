@@ -1,16 +1,21 @@
-Maestro.-
+Maestro.- Carlos Miles Durón del Villar
 39209396.-
 20204375.-
 42102380.-
 38194249.-
-37187830.- Andres Daniel Fuentes Martínez
+<<<<<<< HEAD
+37187830.-  Andres Daniel Fuentes Martínez
 42102520.-
+=======
+37187830.-
+42102520.- María Guadalupe Gallegos Cruz
+>>>>>>> 55b77b63b5a6ba4a35260f70c5fa33a69945575d
 42102521.-
 37183485.-
 20201494.-
 42102247.-
 38195169.-
-42102770.-
+42102770.-Erwin Andrés López Ortega 
 38195667.-
 42102865.-
 42102866.-
@@ -26,6 +31,6 @@ Maestro.-
 20202270.-
 35161474.-
 38193823.-
-38193770.-
+38193770.- Christian Yahir Soria De Lara
 36170403.-
 20201487.-
